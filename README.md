@@ -43,7 +43,8 @@ Sign Up
 Task-list homepage
 ![image](https://github.com/user-attachments/assets/7fe8d59d-9e82-4a42-a45e-4a05e37c62c1)
 Add Task
-![image](https://github.com/user-attachments/assets/cb24dcd2-f0a6-4788-a99a-9393d56c86a2)
+![image](https://github.com/user-attachments/assets/b204fad0-4f97-4985-9c41-c433d923f366)
+
 Calender
 ![image](https://github.com/user-attachments/assets/e7b338cd-1dd8-4c82-befb-b3cdff1d9f5d)
 Profile
